@@ -36,3 +36,7 @@ Este es otro texto. Ejemplo de código de python
 
 Haga clic [aquí](https://google.com) para ir a google
 
+## Sección 5
+
+Estamos haciendo un merge
+
